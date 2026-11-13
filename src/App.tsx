@@ -204,12 +204,22 @@ ${auditResult.fixedCode}
             </div>
           </div>
 
+          <div className="flex items-center gap-3">
+            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-cyan-500 to-teal-600 flex items-center justify-center font-bold text-white text-xs">
+              H
+            </div>
+            <div className="text-left">
+              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Primary Creator & Code Analyst</p>
+              <p className="text-xs font-black text-cyan-300">Hafsa (@hafsawebdev)</p>
+            </div>
+          </div>
+
           <div className="flex items-center gap-2.5 bg-slate-900/60 px-3.5 py-2 rounded-2xl border border-slate-800 shadow-md">
-            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-cyan-500 to-blue-600 flex items-center justify-center font-bold text-white text-xs">
+            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-blue-500 to-indigo-600 flex items-center justify-center font-bold text-white text-xs">
               AS
             </div>
             <div className="text-left">
-              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Lead Architect</p>
+              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Co-Architect</p>
               <p className="text-xs font-black text-cyan-300">Muhammad Ahmad Shahid</p>
             </div>
           </div>
