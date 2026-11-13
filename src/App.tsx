@@ -129,8 +129,9 @@ export default function App() {
       .join('\n');
 
     const dossierContent = `# SECURITY AUDIT & REMEDIATION DOSSIER
-**Platform:** AI Hash Editor Pro  
+**Platform:** Hash Code Editor Pro  
 **Lead Security Architect:** Muhammad Ahmad Shahid  
+**Code Analysis Lead:** Hafsa (@hafsawebdev)  
 **Timestamp:** ${new Date().toUTCString()}  
 **Threat Risk Score:** ${auditResult.threatScore || 85}/100 [SEVERITY: ${auditResult.severity || 'CRITICAL'}]  
 
@@ -197,7 +198,7 @@ ${auditResult.fixedCode}
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-xl sm:text-2xl font-black tracking-tight bg-gradient-to-r from-white via-cyan-100 to-cyan-400 bg-clip-text text-transparent">
-                  AI Hash Editor <span className="text-cyan-400 font-light">Pro</span>
+                  Hash Code Editor <span className="text-cyan-400 font-light">Pro</span>
                 </h1>
               </div>
               <p className="text-[11px] sm:text-xs text-slate-400 font-medium">Autonomous Code Auditor & Security Suite</p>
@@ -205,22 +206,22 @@ ${auditResult.fixedCode}
           </div>
 
           <div className="flex items-center gap-3">
-            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-cyan-500 to-teal-600 flex items-center justify-center font-bold text-white text-xs">
-              H
+            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-cyan-500 to-blue-600 flex items-center justify-center font-bold text-white text-xs">
+              AS
             </div>
             <div className="text-left">
-              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Primary Creator & Code Analyst</p>
-              <p className="text-xs font-black text-cyan-300">Hafsa (@hafsawebdev)</p>
+              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Lead Builder & Architect</p>
+              <p className="text-xs font-black text-cyan-300">Muhammad Ahmad Shahid</p>
             </div>
           </div>
 
           <div className="flex items-center gap-2.5 bg-slate-900/60 px-3.5 py-2 rounded-2xl border border-slate-800 shadow-md">
-            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-blue-500 to-indigo-600 flex items-center justify-center font-bold text-white text-xs">
-              AS
+            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-teal-500 to-emerald-600 flex items-center justify-center font-bold text-white text-xs">
+              H
             </div>
             <div className="text-left">
-              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Co-Architect</p>
-              <p className="text-xs font-black text-cyan-300">Muhammad Ahmad Shahid</p>
+              <p className="text-[9px] text-slate-400 uppercase font-extrabold">Code Analysis Lead</p>
+              <p className="text-xs font-black text-teal-300">Hafsa (@hafsawebdev)</p>
             </div>
           </div>
         </div>

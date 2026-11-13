@@ -1,6 +1,6 @@
 /**
- * AI Hash Editor Pro - Backend Core
- * Developed and Maintained by Muhammad Ahmad Shahid
+ * Hash Code Editor Pro - Backend Core
+ * Developed and Built by Muhammad Ahmad Shahid & Code Analysis by Hafsa
  */
 
 import express from 'express';

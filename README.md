@@ -1,8 +1,8 @@
-# AI Hash Editor Pro (Enterprise Edition)
+# Hash Code Editor Pro (Enterprise Edition)
 
 > **Autonomous Code Auditor, Vulnerability Scanner & Drop-in Refactoring Engine**  
-> **Primary Creator & Code Analysis Lead:** Hafsa (`@hafsawebdev`)  
-> **Co-Architecture & Engineering:** Muhammad Ahmad Shahid
+> **Lead Architecture & Full-Stack Builder:** Muhammad Ahmad Shahid  
+> **Code Analysis Lead & Security Reviewer:** Hafsa (`@hafsawebdev`)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](https://opensource.org/licenses/MIT)
 [![SEO Rank](https://img.shields.io/badge/Google_Ranking-%231_Optimized-emerald.svg)]()
@@ -12,14 +12,14 @@
 
 ## 📌 Executive Summary
 
-**AI Hash Editor Pro** is a world-class, enterprise-grade developer platform engineered to automatically identify, explain, and resolve complex software flaws. Unlike standard linters that merely flag syntax issues, AI Hash Editor performs deep semantic AST evaluation, security threat vector auditing, and full structural refactoring in real-time.
+**Hash Code Editor Pro** is a world-class, enterprise-grade developer platform engineered to automatically identify, explain, and resolve complex software flaws. Unlike standard linters that merely flag syntax issues, Hash Code Editor performs deep semantic AST evaluation, security threat vector auditing, and full structural refactoring in real-time.
 
 ---
 
-## 👥 Core Project Creators & Contributors
+## 👥 Project Builders & Contributors
 
-- **Hafsa** – *Primary Creator, Lead Developer & Code Analysis Lead* ([@hafsawebdev](https://www.instagram.com/hafsawebdev/))
-- **Muhammad Ahmad Shahid** – *Co-Architect & Security Engineering*
+- **Muhammad Ahmad Shahid** – *Lead Systems Architect & Full-Stack Builder (Created & Developed the Entire Project)*
+- **Hafsa** – *Code Analysis Lead & Vulnerability Auditor* ([@hafsawebdev](https://www.instagram.com/hafsawebdev/))
 
 ---
 
@@ -33,9 +33,9 @@
 
 ---
 
-## 👤 Creators & Authors
+## 👤 Authors & Contributors
 
-### **Hafsa** (`@hafsawebdev`) & **Muhammad Ahmad Shahid**
+### **Muhammad Ahmad Shahid** (Lead Developer & Builder) & **Hafsa** (Code Analysis Lead)
 *Software Engineering & Cybersecurity Research Team*
 
 ---
